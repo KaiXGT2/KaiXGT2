@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KaiXGT2
+- 👀 I’m interested in music and computer science
+- 🌱 I’m currently learning C#
